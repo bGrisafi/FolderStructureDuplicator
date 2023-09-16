@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderStructureDuplicator", "FolderStructureDuplicator\FolderStructureDuplicator.csproj", "{2243A3CF-B3A6-4DBA-BC33-6E700A71B7FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FolderStructureDuplicator", "FolderStructureDuplicator\FolderStructureDuplicator.csproj", "{2243A3CF-B3A6-4DBA-BC33-6E700A71B7FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{09CECB2D-2F30-449C-B587-8B6AD6FCDBA0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
